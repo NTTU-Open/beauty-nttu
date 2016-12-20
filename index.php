@@ -69,7 +69,7 @@
 				</li>';
 				break;
 			case "link":
-				$str = '<h2>表特牆: <a href="https://mywebservice.info/beauty/" target="_blank">連結網址</a></h2>';
+				$str = '<h2>表特牆: <a href="https://beauty.nttu.biz/beauty/" target="_blank">連結網址</a></h2>';
 				break;
 		}
 		
